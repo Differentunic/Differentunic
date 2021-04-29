@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Differentunic
 - 👀 I’m interested in automating tasks with code
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning Python, JavaScript and C++
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
