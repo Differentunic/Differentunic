@@ -17,34 +17,25 @@
   
 <!--- GitHub stats --->
 <h3 align="center">Here are my GitHub stats!</h3>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Differentunic&show_icons=true" />
   </a>
-  <br />
-  <br />
-  <br />
-  <a href="https://github.com/anuraghazra/convoychat">
+    <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" style="height: 195px; width: 495px !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Differentunic&layout=compact" />
   </a>
-</p>
+
 
 <br />
 
 <!--- GitHub stats --->
 <h3 align="center">Some of my popular repos</h3>
 
-<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Differentunic&repo=Montserrat-Alt1" />
   </a>
-  <br />
-  <br />
-  <a href="https://github.com/anuraghazra/convoychat">
+    <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Differentunic&repo=ASCII-Render-Video" />
   </a>
-</p>
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Differentunic&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
