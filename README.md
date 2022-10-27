@@ -1,7 +1,9 @@
 <h1 align="center">👋 Hi, I’m Differentunic</h1>
 <h3 align="center">Welcome to my GitHub!</h3>
 
-<p align="center" href="https://www.buymeacoffee.com/Differentunic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></p>
+<div align="center">
+  
+<a href="https://www.buymeacoffee.com/Differentunic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <p align="center">
 👀 I’m interested in automating tasks with code and creating web applications
@@ -23,8 +25,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Differentunic&show_icons=true" />
   </a>
+    
   <br />
   <br />
+    
   <a href="https://github.com/anuraghazra/convoychat">
     <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" style="height: 195px; width: 495px !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Differentunic&layout=compact" />
@@ -43,7 +47,9 @@
     <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Differentunic&repo=ASCII-Render-Video" />
   </a>
-
+    
+</div>
+  
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Differentunic&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
