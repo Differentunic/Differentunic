@@ -39,10 +39,10 @@
 <!--- GitHub stats --->
 <h3 align="center">Some of my popular repos</h3>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Differentunic/Montserrat-Alt1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Differentunic&repo=Montserrat-Alt1" />
   </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/Differentunic/ASCII-Render-Video">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Differentunic&repo=ASCII-Render-Video" />
   </a>
     
